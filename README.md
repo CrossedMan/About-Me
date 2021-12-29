@@ -1,4 +1,4 @@
-# hello-world
+# Hello
 My first repository (updated)
 
 A little bit about me.
