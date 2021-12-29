@@ -1,6 +1,6 @@
 # hello-world
-My first repository
+My first repository (updated)
 
 A little bit about me.
 
-I currently live in North Carolina. I'm a US Marine with aspirations to become a web-developer/programmer. I've been studying HTML, CSS and JavaScript for about a year but not consistantly due to work. I fairly fluent in HTML and CSS but I struggle with JavaScript. I feel like my ability to excel is my lack of creativity. I would love to test and perfect my skills by creating something like a small website but I just don't know what to put content wise.
+I currently live in Michigan as a Marine Corps Recruiter. My career is based on logistics but I have a passion for computers and have aspirations to create my own game even if it's just a platform scroller. In the past I've studied: HTML, CSS and JavaScript but I stopped years ago. I feel like I failed to excel in those because I have no desire to create websites nor do I have to creativity to do so. I'm now focused on Python. Working my way up to the ultimate goal.
